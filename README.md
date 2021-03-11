@@ -1,16 +1,17 @@
 ### Hi there 👋
 
-<!--
-**weastur/weastur** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🔭 I’m currently working on [dikort](https://github.com/weastur/dikort)
+- 💬 Ask me about DevOps, Linux, Python, Databases
+- 📫 How to reach me:
+  - Email me: me@weastur.com
+  - [Telegram me](https://t.me/weastur)
+  - [Follow me](https://twitter.com/intent/follow?screen_name=weastur1) on Twitter
+  - [Add me](www.linkedin.com/in/weastur) on Linkedin 
 
-Here are some ideas to get you started:
+Overall                    |  Languages
+:-------------------------:|:-------------------------:
+![weastur's GitHub stats](https://github-readme-stats.vercel.app/api?username=weastur&count_private=true&show_icons=true)  |  ![weastur's GitHub languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=weastur&layout=compact)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Social                     |  Trophies
+:-------------------------:|:-------------------------:
+[![Source Karma badge for @weastur](https://sourcekarma-og.vercel.app/api/weastur/github)](https://sourcekarma.vercel.app/weastur)  |  ![Profile trophy of @weastur](https://github-profile-trophy.vercel.app/?username=weastur)
