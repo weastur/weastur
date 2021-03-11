@@ -12,6 +12,9 @@ Overall                    |  Languages
 :-------------------------:|:-------------------------:
 ![weastur's GitHub stats](https://github-readme-stats.vercel.app/api?username=weastur&count_private=true&show_icons=true)  |  ![weastur's GitHub languages stats](https://github-readme-stats.vercel.app/api/top-langs/?username=weastur&layout=compact)
 
+
 Social                     |  Trophies
 :-------------------------:|:-------------------------:
 [![Source Karma badge for @weastur](https://sourcekarma-og.vercel.app/api/weastur/github)](https://sourcekarma.vercel.app/weastur)  |  ![Profile trophy of @weastur](https://github-profile-trophy.vercel.app/?username=weastur)
+
+![](https://komarev.com/ghpvc/?username=weastur)
