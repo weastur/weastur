@@ -16,5 +16,3 @@ Overall                    |  Languages
 Social                     |  Trophies
 :-------------------------:|:-------------------------:
 [![Source Karma badge for @weastur](https://sourcekarma-og.vercel.app/api/weastur/github)](https://sourcekarma.vercel.app/weastur)  |  ![Profile trophy of @weastur](https://github-profile-trophy.vercel.app/?username=weastur)
-
-![](https://komarev.com/ghpvc/?username=weastur)
