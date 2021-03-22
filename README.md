@@ -7,6 +7,7 @@
   - [Telegram me](https://t.me/weastur)
   - [Follow me](https://twitter.com/intent/follow?screen_name=weastur1) on Twitter
   - [Add me](www.linkedin.com/in/weastur) on Linkedin 
+  - [Read my blog](https://weastur.medium.com/)
 
 Overall                    |  Languages
 :-------------------------:|:-------------------------:
