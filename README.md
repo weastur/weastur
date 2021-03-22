@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on [dikort](https://github.com/weastur/dikort)
+- 🔭 I’m currently working on [cve_bot](https://github.com/weastur/cve_bot)
 - 💬 Ask me about DevOps, Linux, Python, Databases
 - 📫 How to reach me:
   - Email me: me@weastur.com
